@@ -32,6 +32,7 @@ class Decryption:
             else:
                 output_str += self.input_str[i]
         # Return the output_str
+        return output_str.strip()
 
 # Create a new object of the Decryption class and the input string of the user
 # Call the decrypt function and create a variable called output_str to get the results or decrypted output
