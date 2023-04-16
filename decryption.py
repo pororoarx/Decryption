@@ -1,5 +1,13 @@
 # Start of pseudocode
 
+
+# Import the pyfiglet module for different fonts
+import pyfiglet
+
+# Set and print the title of the activity in color and different font
+title_of_assign = "Lab Exercise 1"
+print(pyfiglet.figlet_format(title_of_assign))
+
 # Ask the user to input a string
 input_str = input("Enter an input string: ")
 
