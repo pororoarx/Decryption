@@ -1,6 +1,7 @@
 # Start of pseudocode
 
 # Ask the user to input a string
+input_str = input("Enter an input string: ")
 
 # Create a class called "Decryption"
 
