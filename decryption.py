@@ -4,6 +4,9 @@
 input_str = input("Enter an input string: ")
 
 # Create a class called "Decryption"
+class Decryption:
+    def __init__(self, input_str):
+        self.input_str = input_str
 
     # Inside the class, create and initialize a function "decrypt" that takes an input string
         # Create a variable called "output_str"
