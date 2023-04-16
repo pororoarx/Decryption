@@ -47,5 +47,6 @@ decryption_act = Decryption(input_str)
 # Call the decrypt function and create a variable called output_str to get the results or decrypted output
 output_str = decryption_act.decrypt()
 
-# Print the output string
-print("The output string is:", output_str)
+# Print the output string in color
+print("\033[92mThe output string is:", output_str)
+print("\033[95m" + "=".ljust(40, "="))
