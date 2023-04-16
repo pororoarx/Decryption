@@ -35,6 +35,7 @@ class Decryption:
         return output_str.strip()
 
 # Create a new object of the Decryption class and the input string of the user
+decryption_act = Decryption(input_str)
 # Call the decrypt function and create a variable called output_str to get the results or decrypted output
 
 # Print the outpput string
