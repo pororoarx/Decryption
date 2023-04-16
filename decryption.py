@@ -1,5 +1,6 @@
 # LAB EXERCISE NO 1
 # PROBLEM NO.2 - DECRYPTION
+# A Python Script that will accept a string as encrypted text and then the program will decrypt it using the following character substitute
 
 # Start of pseudocode
 
