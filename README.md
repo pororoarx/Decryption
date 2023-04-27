@@ -38,6 +38,6 @@ This program employs a ‘Decryption’ class that contains a method called ‘d
 
 - Conclusion
 
-This program executes a simple implementation of a substitution cipher using Python. The REAME.md file provides clear instructions for installing and running the program, as well as contributing to its development. 
+This program executes a simple implementation of a substitution cipher using Python. This REAME.md file provides clear instructions for installing and running the program, so feel free to contribute to its development.
 
 ======================================================================================================================================================================
